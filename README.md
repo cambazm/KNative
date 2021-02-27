@@ -192,9 +192,10 @@ If you have predictable payloads, cost efficient servers and infrastructure then
 <br />
 Check out these too: 
 <br />
-- [AWS Lambda vs Azure Functions vs KNative](https://stackshare.io/stackups/aws-lambda-vs-azure-functions-vs-knative)
-- [Ubuntu KNative documentation](https://ubuntu.com/blog/getting-started-with-knative-1)
-- [Microk8s troubleshooting](https://microk8s.io/docs/troubleshooting) | [Microk8s kubectl](https://microk8s.io/docs/working-with-kubectl) | [Microk8s ingress config](https://microk8s.io/docs/addon-ingress)
-- [KNative documentation](https://knative.dev/docs/install/)
-- [Sample applications on KNative source](https://github.com/knative/docs/tree/master/docs/serving/samples)
-#knative #serverless #microk8s #kubernetes #ubuntu
+- AWS Lambda vs Azure Functions vs KNative https://stackshare.io/stackups/aws-lambda-vs-azure-functions-vs-knative
+- Ubuntu KNative documentation https://ubuntu.com/blog/getting-started-with-knative-1 
+- Microk8s troubleshooting https://microk8s.io/docs/troubleshooting 
+- Microk8s kubectl https://microk8s.io/docs/working-with-kubectl 
+- Microk8s ingress config https://microk8s.io/docs/addon-ingress
+- KNative documentation https://knative.dev/docs/install/ 
+- Sample applications on KNative source https://github.com/knative/docs/tree/master/docs/serving/samples
