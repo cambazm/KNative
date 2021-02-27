@@ -190,12 +190,11 @@ If you have predictable payloads, cost efficient servers and infrastructure then
 - KNative could be seen as not mature for production loads since it is reasonably new in the market, make sure that you validate it under your production payload before going live.
 - You need to add extra monitoring and alerting mechanisms to make sure lots of “serverless functions” act as they suppose to act.
 <br />
-Check out these too: 
-<br />
-- AWS Lambda vs Azure Functions vs KNative https://stackshare.io/stackups/aws-lambda-vs-azure-functions-vs-knative
-- Ubuntu KNative documentation https://ubuntu.com/blog/getting-started-with-knative-1 
-- Microk8s troubleshooting https://microk8s.io/docs/troubleshooting 
-- Microk8s kubectl https://microk8s.io/docs/working-with-kubectl 
-- Microk8s ingress config https://microk8s.io/docs/addon-ingress
-- KNative documentation https://knative.dev/docs/install/ 
-- Sample applications on KNative source https://github.com/knative/docs/tree/master/docs/serving/samples
+Check out these too: <br />
+<br />AWS Lambda vs Azure Functions vs KNative https://stackshare.io/stackups/aws-lambda-vs-azure-functions-vs-knative
+<br />Ubuntu KNative documentation https://ubuntu.com/blog/getting-started-with-knative-1 
+<br />Microk8s troubleshooting https://microk8s.io/docs/troubleshooting 
+<br />Microk8s kubectl https://microk8s.io/docs/working-with-kubectl 
+<br />Microk8s ingress config https://microk8s.io/docs/addon-ingress
+<br />KNative documentation https://knative.dev/docs/install/ 
+<br />Sample applications on KNative source https://github.com/knative/docs/tree/master/docs/serving/samples
